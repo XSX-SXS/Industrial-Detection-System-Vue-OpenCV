@@ -1,0 +1,6 @@
+path: C:\Users\48496\project-gpp-0525002-main\data\datasets\dataset_2
+train: train/images
+val: val/images
+nc: 3
+
+names: ["1", "wheel_text", "text_region"]
